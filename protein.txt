@@ -1,0 +1,5 @@
+Jenneh       Musa    Computer Science    89
+Fatmata      Wan     BIT                 78
+Abdul        Kamara  Computer Science    90
+Ansumana     Samura  Computer Science    56
+Abu          Adam    BIT                 20
