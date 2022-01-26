@@ -5,3 +5,5 @@ Ansumana     Samura  Computer Science    56
 Abu          Adam    BIT                 20
 Bai          Ahmed   MIS                 78
 Charley      Amadu   Telecom             80
+Hamzie       kkkkk    MIS                34
+Bresford     bbbbb   ICT                 10
